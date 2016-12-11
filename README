@@ -1,6 +1,7 @@
 This program cannot read .wav file directly.
 Extract wave data from .wav file with "dumpwave" first.
 (The source code of "dumpwave.c" can be obtained at "https://oku.edu.mie-u.ac.jp/~okumura/dumpwave.c".)
+"clwav.txt" is the extracted wave data from "cl.wav" with "dumpwave".
 
 How to build:
 Change directory to "Release" and execute "make".
